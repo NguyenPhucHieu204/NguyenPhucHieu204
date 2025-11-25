@@ -50,7 +50,6 @@
 - 🛠 **RESTful API** (JWT Auth, Validation, File Upload)  
 - 🎨 **Frontend UI Projects** (Landing pages, dashboards)
 
-*(Bạn có thể thêm link demo + repo vào đây)*
 
 ---
 
