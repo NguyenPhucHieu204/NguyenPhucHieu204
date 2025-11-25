@@ -7,11 +7,11 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Công nghệ thông tin – định hướng Frontend + Fullstack cơ bản  
-- 🌱 Đang học React, Next.js, Laravel và các kỹ thuật kiểm thử bảo mật  
-- 🧰 Làm dự án web: Online Book Store, Student Management System  
-- ☁️ Quan tâm đến AWS, CI/CD, tối ưu backend  
-- 📫 Liên hệ: (thêm email của bạn)
+- 🎓 Công nghệ thông tin – hướng Frontend  
+- 🌱 Đang học React, Next.js, UI/UX  
+- 🧰 Làm dự án web: online book store, student management system  
+- ☁️ Quan tâm đến AWS, DevOps cơ bản  
+- 📫 Liên hệ: (thêm email của bạn nếu muốn)
 
 ---
 
@@ -22,32 +22,24 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
 
-### **Backend / Framework**
+### **Backend / Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-
-### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 - 🔥 **Online Book Store Website** – React + Node.js + MongoDB  
-- 💬 **Student Management System** – Realtime Chat + Role-based Auth  
-- 🛒 **Laravel E-Commerce Mini Project** – PHP + Bootstrap + MySQL  
-- 🛠 **RESTful API** (JWT Auth, Validation, File Upload)  
+- 💬 **Student Management System** – Realtime chat + forum  
+- 🛠 **RESTful API** with Express + JWT  
 - 🎨 **Frontend UI Projects** (Landing pages, dashboards)
 
 
@@ -64,7 +56,7 @@
 
 ## 🌐 Connect With Me
 - 🔗 **GitHub:** github.com/NguyenPhucHieu204  
-- 🔗 **LinkedIn:** (thêm link)  
+- 🔗 **LinkedIn:** (thêm vào)  
 - 🔗 **Instagram / Facebook:** (tuỳ chọn)
 
 ---
